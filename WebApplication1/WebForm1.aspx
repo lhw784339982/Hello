@@ -8,9 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <div>
-      Add WebForm1.aspx
-    </div>
     </form>
+    <div id="aaaa"></div>
 </body>
 </html>

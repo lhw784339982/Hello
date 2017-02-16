@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    我新加的 能获取到吗？
+    我新加的 能获取到吗？？
     </div>
     </form>
 </body>
